@@ -5,7 +5,7 @@ body {
 .jumbotron.minky {
   font-family: 'Bungee Shade', cursive;
   background-color: #0C0B36;
-  color: #F2F0E5;
+  color: #F3F3DD;
   border-radius: 0;
   margin-left: 0;
   margin-right: 0;
@@ -22,7 +22,7 @@ img {
   padding: 20px;
   margin: 8px;
   margin-left: auto;
-  background-color: #F2F0E5;
+  background-color: #F3F3DD;
   border-radius: 25px;
   margin-right: auto;
   max-width: 95%;
@@ -47,7 +47,17 @@ h2.panel-title {
 }
 
 .chunk a {
-  font-size: 18px;
+  font-size: 16px;
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+.chunk p {
+  font-size: 13px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.about h2 {
+  text-align: center;
 }
 
 .panel-default {
