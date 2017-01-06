@@ -1,0 +1,21 @@
+.jumbotron {
+  font-family: 'Bungee Shade', cursive;
+  background-color: #ABA0B3;
+}
+
+h1 {
+  font-size: 340px;
+}
+
+img {
+  width: 260px;
+  height: 350px;
+  float: left;
+  margin: 20px;
+  padding: 4px;
+}
+
+.cool {
+  font-size: 16px;
+  font-family: cursive;
+}
