@@ -29,6 +29,6 @@ h2.panel-title {
     font-family: 'Reem Kufi', sans-serif;
 }
 
-div.row{
-  max-height: 400px;
+.stick {
+   height: 100%;
 }
