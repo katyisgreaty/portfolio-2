@@ -12,7 +12,7 @@ _This page includes a picture of me, my better projects this week, as well as an
 ## Setup/Installation Requirements
 
 * _Open webpage_
-* _Enjoy_
+* _Revel in the beauty before you_
 * _Give me a fantastic grade_
 * _Go enjoy your favorite food. You deserve it!_
 
