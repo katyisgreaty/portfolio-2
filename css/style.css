@@ -17,6 +17,9 @@ img {
   margin-left: 10px;
   background-color: green;
   border-radius: 25px;
+  max-height: 340px;
+  max-width: 260px;
+
 }
 
 p .cool {
