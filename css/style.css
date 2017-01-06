@@ -5,7 +5,7 @@ body {
 .jumbotron.minky {
   font-family: 'Bungee Shade', cursive;
   background-color: #0C0B36;
-  color: #F3F3DD;
+  color: #F2E7E3;
   border-radius: 0;
   margin-left: 0;
   margin-right: 0;
@@ -22,7 +22,7 @@ img {
   padding: 20px;
   margin: 8px;
   margin-left: auto;
-  background-color: #F3F3DD;
+  background-color: #F2E7E3;
   border-radius: 25px;
   margin-right: auto;
   max-width: 95%;
@@ -38,8 +38,13 @@ p.cool {
 }
 
 h2.panel-title {
-    font-size: 35px;
-    font-family: 'Reem Kufi', sans-serif;
+  font-size: 35px;
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+h4.panel-title {
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 26px;
 }
 
 .stick {
@@ -62,4 +67,27 @@ h2.panel-title {
 
 .panel-default {
   margin-left: 20px;
+}
+
+ol.number {
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 16px;
+}
+
+.panel-default > .panel-heading {
+  background-color: #0C0B36;
+  color: #F2E7E3;
+}
+
+.panel-default > .panel-body {
+  background-color: #F2E7E3;
+}
+
+span.smooth {
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+
+span.scoot {
+  margin-left: 10px;
 }
