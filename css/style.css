@@ -1,5 +1,6 @@
 body {
   background-image: url("../img/orcas.jpeg");
+  background-size: cover;
 }
 
 .jumbotron.minky {
@@ -9,6 +10,8 @@ body {
   border-radius: 0;
   margin-left: 0;
   margin-right: 0;
+  width: 100%;
+  padding: 30px;
 }
 
 h1.bigger {
@@ -52,13 +55,18 @@ h4.panel-title {
 }
 
 .chunk a {
-  font-size: 16px;
+  font-size: 19px;
   font-family: 'Reem Kufi', sans-serif;
 }
 
 .chunk p {
-  font-size: 13px;
+  font-size: 16px;
   font-family: 'Raleway', sans-serif;
+  color: #0C0B36;
+}
+
+.chunk li {
+  margin-bottom: 3px;
 }
 
 .about h2 {
@@ -72,6 +80,7 @@ h4.panel-title {
 ol.number {
   font-family: 'Reem Kufi', sans-serif;
   font-size: 16px;
+  color: #0C0B36;
 }
 
 .panel-default > .panel-heading {
@@ -86,4 +95,9 @@ ol.number {
 span.smooth {
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
+}
+
+span.fixy {
+  max-height: 500px;
+  min-height: 400px;
 }
