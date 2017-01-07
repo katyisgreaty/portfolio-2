@@ -6,7 +6,7 @@ body {
 .jumbotron.minky {
   font-family: 'Bungee Shade', cursive;
   background-color: #0C0B36;
-  color: #F2E7E3;
+  color: #FBEFF1;
   border-radius: 0;
   margin-left: 0;
   margin-right: 0;
@@ -25,10 +25,20 @@ img {
   padding: 20px;
   margin: 8px;
   margin-left: auto;
-  background-color: #F2E7E3;
-  border-radius: 25px;
+  background-color: #FBEFF1;
+  border-radius: 4px;
   margin-right: auto;
   max-width: 95%;
+}
+
+img.widdle {
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  border-radius: 3px;
+  margin-bottom: 3px;
+  margin-top: 0px;
+  display: inline;
 }
 
 img.wave {
@@ -85,11 +95,11 @@ ol.number {
 
 .panel-default > .panel-heading {
   background-color: #0C0B36;
-  color: #F2E7E3;
+  color: #FBEFF1;
 }
 
 .panel-default > .panel-body {
-  background-color: #F2E7E3;
+  background-color: #FBEFF1;
 }
 
 span.smooth {
